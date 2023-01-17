@@ -1,0 +1,17 @@
+/* YOUR STYLES HERE */
+
+body{
+    background-color: rgb(186, 246, 209);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#header {
+    font-size: 30px;
+}
+
+.dog {
+    height: 500px;
+}
+.owl {
+    height: 600px;
+}
